@@ -12,9 +12,6 @@
 - Go to **Manage Jenkins** --> **System** and search for **Global Trusted Pipeline Libraries**.
 <img src="https://github.com/DevMadhup/Jenkins_SharedLib/blob/main/assests/Sharedlib-config-1.png" />
 
-  **Name:** Shared <br>
-  **Default version:** \<branch name><br>
-  **Project repository:** https://github.com/DevMadhup/Jenkins_SharedLib.git <br>
 ****
 <img src="https://github.com/DevMadhup/Jenkins_SharedLib/blob/main/assests/Sharedlib-config-2.png" />
 
